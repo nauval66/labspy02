@@ -8,7 +8,7 @@ Kelas : TI.20.B.1<br>
 
 Pada pertemuan 7 saya di beri tugas ke-2, yaitu :
 
-![latian.PNG](Pic/tugas_latihan.PNG)
+![latian.png](Pic/tugas_latihan.png)
 
 Berikut adalah syntax yang saya gunakan untuk menginputkan 3 angka atau nilai dan mencari nilai terbesar 1 dari 3 angka yang diinputkan:
 
@@ -34,7 +34,7 @@ Untuk bisa menghasil flowchart di atas, maka kalian harus download terlebih dahu
 
 Download lah yang sesuai dengan spesifikasi laptop kalian agar tidak terjadi kendala saat sedang mengoperasikannya.
 
-![flowchart.PNG](Pic/flowchart.PNG)
+![flowchart.png](Pic/flowchart.png)
 
 Cara melihat spesfifikasi laptop dengan cara tekan windows+r lalu ketik dxdiag kemudian tekan enter
 
