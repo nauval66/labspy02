@@ -46,7 +46,7 @@ Lihat windows berapa yang anda gunakan dan berapa bitnya
 
 Setelah mendownload lalu install dan buka hingga muncul tampilan seperti dibawah ini kalian bisa mengklik pada bagian garis hitamnya
 
-![akbar.PNG](Pic/akbar.PNG)
+![hasil.PNG](Pic/akbar.PNG)
 
 Pada tampilan diatas kalian dapat memilih menu mana yang kalian butuhkan.
 
